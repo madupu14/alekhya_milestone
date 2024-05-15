@@ -1,0 +1,13 @@
+https://github.com/madupu14/alekhya_milestone
+
+
+product-service-0.0.1-SNAPSHOT.jar
+
+docker pull madupu/alu-product-service
+34.238.169.117:5555
+
+
+product-description-0.0.1-SNAPSHOT.jar
+
+docker pull madupu/alu-product-description
+3.87.11.66:6666
