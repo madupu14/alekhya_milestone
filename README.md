@@ -7,4 +7,7 @@ docker pull madupu/alu-product-service
 
 
 product-description-0.0.1-SNAPSHOT.jar
+
 docker pull madupu/alu-product-description
+
+3.87.11.66
